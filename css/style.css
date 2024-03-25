@@ -16,6 +16,7 @@ body {
 }
 
 h2 {
+  padding: 30px;
   font-size: 6em;
   font-weight: 500;
   color: #333;
